@@ -98,6 +98,7 @@ form section
 }
 
 .main-form input {
+    cursor: pointer;
     align-items: center;
     margin-left: 25px;
     margin-top: 29px;
@@ -244,3 +245,7 @@ ul li a {
     text-decoration: none;
     color: #727272;
 }
+
+/*--------------------
+ media query star 
+-------------------- */
